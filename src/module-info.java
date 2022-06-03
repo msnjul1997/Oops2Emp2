@@ -1,0 +1,2 @@
+module OopsEmp2 {
+}
